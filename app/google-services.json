@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726612578308",
+    "project_id": "farm-to-fresh",
+    "storage_bucket": "farm-to-fresh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726612578308:android:f64936ae04fd070a9ba551",
+        "android_client_info": {
+          "package_name": "com.simmi.foundation.farmtofresh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726612578308-6d2tbbvcid3i3532tqkv97nvr4fe3nf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWdd84l_Bf9dwx-GNtzMpSz7VzjBZkscM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726612578308-6d2tbbvcid3i3532tqkv97nvr4fe3nf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
